@@ -5,12 +5,12 @@ Plingers just Pling
 
 What's working:
 
-1. A basic UI
+1. Basic UI
 
 
 Currently working on:
 
-1. A RecyclerView that gets data from Parse
+1. RecyclerView that gets data from Parse
 2. You tell...
 
 
