@@ -1,4 +1,4 @@
-# Pling
+# Pling [development halted until further notice]
 Plingers just Pling
 
 What's working:
