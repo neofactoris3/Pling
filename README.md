@@ -1,5 +1,5 @@
 # Pling 
-{ development halted until further notice }
+{ development halted as this project is not relevant anymore. parse died. RIP }
 
 Plingers just Pling
 
