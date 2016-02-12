@@ -2,11 +2,12 @@ package mca.pling;
 
 import android.app.Application;
 
-import com.parse.Parse;
+//No more significan't as PARSE is dead
+/**import com.parse.Parse;
 
-/**
+
  * Created by nevin on 9/11/15.
- */
+ 
 public class ParseInitialise extends Application {
     public void onCreate(){
         super.onCreate();
@@ -17,3 +18,4 @@ public class ParseInitialise extends Application {
 
     }
 }
+*/
