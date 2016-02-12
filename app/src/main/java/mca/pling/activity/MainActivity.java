@@ -60,7 +60,7 @@ public class MainActivity extends ActionBarActivity implements FragmentDrawer.Fr
         }
 
         if(id == R.id.action_search){
-            Toast.makeText(getApplicationContext(), "Search not implimented", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Algo not implimented", Toast.LENGTH_SHORT).show();
             return true;
         }
 
