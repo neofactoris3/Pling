@@ -2,7 +2,7 @@ package mca.pling;
 
 import android.app.Application;
 
-//No more significan't as PARSE is dead
+//No more significant as PARSE is dead
 /**import com.parse.Parse;
 
 
