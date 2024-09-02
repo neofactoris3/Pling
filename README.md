@@ -11,7 +11,6 @@ What's working:
 Currently working on:
 
 1. RecyclerView that gets data from Parse
-2. You tell...
 
 
 
